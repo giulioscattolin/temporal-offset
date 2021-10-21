@@ -5,7 +5,7 @@ package com.github.giulioscattolin.temporal.offset;
  */
 public interface TemporalOffsetFactory {
     /**
-     * Returns a null temporal offset.
+     * Returns a zero temporal offset.
      */
-    TemporalOffset makeNullOffset();
+    TemporalOffset zero();
 }

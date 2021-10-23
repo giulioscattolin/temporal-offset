@@ -1,3 +1,15 @@
+# [1.0.0-alpha.4](https://github.com/giulioscattolin/plutonium/compare/v1.0.0-alpha.3...v1.0.0-alpha.4) (2021-10-23)
+
+
+### chore
+
+* change library name to "plutonium" ([0ea5353](https://github.com/giulioscattolin/plutonium/commit/0ea53538ef5a496d18be65a2f4d2010c558b848b))
+
+
+### BREAKING CHANGES
+
+* dump "temporal-offset" as name of library
+
 # [1.0.0-alpha.3](https://github.com/giulioscattolin/plutonium/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2021-10-23)
 
 

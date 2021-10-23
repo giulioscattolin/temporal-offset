@@ -1,3 +1,11 @@
+# [1.0.0-alpha.3](https://github.com/giulioscattolin/temporal-offset/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2021-10-23)
+
+
+### Features
+
+* add EpochAndTemporalOffset ([e274099](https://github.com/giulioscattolin/temporal-offset/commit/e2740998e4238d618ee2dc2e13c8d0fc40c01edc))
+* add TemporalCoordinate interface ([54ca4fd](https://github.com/giulioscattolin/temporal-offset/commit/54ca4fdb154e0c583523ba07609d29e51a63c8ab))
+
 # [1.0.0-alpha.2](https://github.com/giulioscattolin/temporal-offset/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2021-10-21)
 
 

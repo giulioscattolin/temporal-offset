@@ -1,24 +1,24 @@
-# [1.0.0-alpha.3](https://github.com/giulioscattolin/temporal-offset/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2021-10-23)
+# [1.0.0-alpha.3](https://github.com/giulioscattolin/plutonium/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2021-10-23)
 
 
 ### Features
 
-* add EpochAndTemporalOffset ([e274099](https://github.com/giulioscattolin/temporal-offset/commit/e2740998e4238d618ee2dc2e13c8d0fc40c01edc))
-* add TemporalCoordinate interface ([54ca4fd](https://github.com/giulioscattolin/temporal-offset/commit/54ca4fdb154e0c583523ba07609d29e51a63c8ab))
+* add EpochAndTemporalOffset ([e274099](https://github.com/giulioscattolin/plutonium/commit/e2740998e4238d618ee2dc2e13c8d0fc40c01edc))
+* add TemporalCoordinate interface ([54ca4fd](https://github.com/giulioscattolin/plutonium/commit/54ca4fdb154e0c583523ba07609d29e51a63c8ab))
 
-# [1.0.0-alpha.2](https://github.com/giulioscattolin/temporal-offset/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2021-10-21)
+# [1.0.0-alpha.2](https://github.com/giulioscattolin/plutonium/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2021-10-21)
 
 
 ### Features
 
-* add BigDecimal implementation ([08e195b](https://github.com/giulioscattolin/temporal-offset/commit/08e195bd338267e6dcf034b13206e44e875a4610))
-* add TemporalOffset and TemporalOffsetFactory interfaces ([980e926](https://github.com/giulioscattolin/temporal-offset/commit/980e926889345d8a910544ce1db19ffda8f6207e))
-* rename makeNullOffset() to zero() ([dd80d93](https://github.com/giulioscattolin/temporal-offset/commit/dd80d9348f036e23131ecea2f195127da866b8de))
+* add BigDecimal implementation ([08e195b](https://github.com/giulioscattolin/plutonium/commit/08e195bd338267e6dcf034b13206e44e875a4610))
+* add TemporalOffset and TemporalOffsetFactory interfaces ([980e926](https://github.com/giulioscattolin/plutonium/commit/980e926889345d8a910544ce1db19ffda8f6207e))
+* rename makeNullOffset() to zero() ([dd80d93](https://github.com/giulioscattolin/plutonium/commit/dd80d9348f036e23131ecea2f195127da866b8de))
 
 
 ### Reverts
 
-* remove TemporalOffset#isEqualTo() ([5013053](https://github.com/giulioscattolin/temporal-offset/commit/50130531570ed16df408b9d2f16cd6ec20f084c9))
+* remove TemporalOffset#isEqualTo() ([5013053](https://github.com/giulioscattolin/plutonium/commit/50130531570ed16df408b9d2f16cd6ec20f084c9))
 
 
 ### BREAKING CHANGES
@@ -31,10 +31,10 @@
 
 ### Bug Fixes
 
-* **build:** add missing "README.md" file ([463afcb](https://github.com/giulioscattolin/temporal-offset/commit/463afcb7b7309a7cca940172db86379d00943351))
-* **build:** add missing "release" job ([2970837](https://github.com/giulioscattolin/temporal-offset/commit/29708378582a981abd3a9620923a3aa0e9816acd))
+* **build:** add missing "README.md" file ([463afcb](https://github.com/giulioscattolin/plutonium/commit/463afcb7b7309a7cca940172db86379d00943351))
+* **build:** add missing "release" job ([2970837](https://github.com/giulioscattolin/plutonium/commit/29708378582a981abd3a9620923a3aa0e9816acd))
 
 
 ### Features
 
-* **build:** implement Continuous Delivery ([3e38cc5](https://github.com/giulioscattolin/temporal-offset/commit/3e38cc5a0dd49fe46242eb844f51d8047e21fb11))
+* **build:** implement Continuous Delivery ([3e38cc5](https://github.com/giulioscattolin/plutonium/commit/3e38cc5a0dd49fe46242eb844f51d8047e21fb11))

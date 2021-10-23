@@ -2,5 +2,5 @@
 version=$1
 doubleHypenedVersion=$(echo "${version}" | sed -e 's/-/--/')
 sed -i "s/version = .*/version = '$version'/" build.gradle
-sed -i "s/.*com.github.giulioscattolin:temporal-offset.*/    implementation 'com.github.giulioscattolin:temporal-offset:$version'/" README.md
-sed -i "s/.*Javadoc badge.*/[![Javadoc badge](https:\/\/img.shields.io\/badge\/Javadoc-$doubleHypenedVersion-brightgreen)](https:\/\/javadoc.jitpack.io\/com\/github\/giulioscattolin\/temporal-offset\/$version\/javadoc\/)/" README.md
+sed -i "s/.*com.github.giulioscattolin:plutonium.*/    implementation 'com.github.giulioscattolin:plutonium:$version'/" README.md
+sed -i "s/.*Javadoc badge.*/[![Javadoc badge](https:\/\/img.shields.io\/badge\/Javadoc-$doubleHypenedVersion-brightgreen)](https:\/\/javadoc.jitpack.io\/com\/github\/giulioscattolin\/plutonium\/$version\/javadoc\/)/" README.md

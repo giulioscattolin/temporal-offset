@@ -1,4 +1,4 @@
-package com.github.giulioscattolin.temporal.offset;
+package com.github.giulioscattolin.plutonium;
 
 /**
  * A factory of {@link TemporalOffset}s.

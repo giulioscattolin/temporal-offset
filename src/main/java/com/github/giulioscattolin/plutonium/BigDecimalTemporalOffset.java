@@ -1,4 +1,4 @@
-package com.github.giulioscattolin.temporal.offset;
+package com.github.giulioscattolin.plutonium;
 
 import java.math.BigDecimal;
 import java.util.Objects;

@@ -1,9 +1,9 @@
-# temporal-offset
-A Java library that provides abstractions to handle temporal offsets effectively.
+# plutonium
+Handle instants and time offsets, with precision less than one nanosecond.
 
-![CI badge](https://github.com/giulioscattolin/temporal-offset/actions/workflows/gradle.yml/badge.svg)
-![JitPack badge](https://jitpack.io/v/giulioscattolin/temporal-offset.svg)
-[![Javadoc badge](https://img.shields.io/badge/Javadoc-1.0.0--alpha.3-brightgreen)](https://javadoc.jitpack.io/com/github/giulioscattolin/temporal-offset/1.0.0-alpha.3/javadoc/)
+![CI badge](https://github.com/giulioscattolin/plutonium/actions/workflows/gradle.yml/badge.svg)
+![JitPack badge](https://jitpack.io/v/giulioscattolin/plutonium.svg)
+[![Javadoc badge](https://img.shields.io/badge/Javadoc-1.0.0--alpha.3-brightgreen)](https://javadoc.jitpack.io/com/github/giulioscattolin/plutonium/1.0.0-alpha.3/javadoc/)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 ## Installation
@@ -15,6 +15,6 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.giulioscattolin:temporal-offset:1.0.0-alpha.3'
+    implementation 'com.github.giulioscattolin:plutonium:1.0.0-alpha.3'
 }
 ```

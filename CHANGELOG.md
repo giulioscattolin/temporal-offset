@@ -1,3 +1,11 @@
+# [1.0.0-alpha.5](https://github.com/giulioscattolin/plutonium/compare/v1.0.0-alpha.4...v1.0.0-alpha.5) (2021-10-24)
+
+
+### Features
+
+* add ECEFCoordinates ([00dcfc9](https://github.com/giulioscattolin/plutonium/commit/00dcfc99afae0e64a610e7acddeed8729b41bdb7))
+* add RectangularCoordinates ([56859d5](https://github.com/giulioscattolin/plutonium/commit/56859d5e5831ea904629ef110ed7a2a1b1c3c134))
+
 # [1.0.0-alpha.4](https://github.com/giulioscattolin/plutonium/compare/v1.0.0-alpha.3...v1.0.0-alpha.4) (2021-10-23)
 
 

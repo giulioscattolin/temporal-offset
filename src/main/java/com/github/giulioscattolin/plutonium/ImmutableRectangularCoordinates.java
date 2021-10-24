@@ -22,4 +22,16 @@ public class ImmutableRectangularCoordinates implements RectangularCoordinates {
     public double getZ() {
         return itsZ;
     }
+
+    public RectangularCoordinates minus(RectangularCoordinates other) {
+        return new ImmutableRectangularCoordinates(itsX - other.getX(), itsY - other.getY(), itsZ - other.getZ());
+    }
+
+    public RectangularCoordinates multiplyBy(double scale) {
+        return new ImmutableRectangularCoordinates(itsX * scale, itsY * scale, itsZ * scale);
+    }
+
+    public RectangularCoordinates divideBy(double scale) {
+        return new ImmutableRectangularCoordinates(itsX / scale, itsY / scale, itsZ / scale);
+    }
 }

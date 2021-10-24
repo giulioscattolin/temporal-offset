@@ -1,5 +1,6 @@
 # plutonium
-Handle instants and time offsets, with precision less than one nanosecond.
+A Java library that handles time and space effectively.
+* Provides abstractions for temporal coordinate and time offsets, with precision less than one nanosecond.
 
 ![CI badge](https://github.com/giulioscattolin/plutonium/actions/workflows/gradle.yml/badge.svg)
 ![JitPack badge](https://jitpack.io/v/giulioscattolin/plutonium.svg)

@@ -1,3 +1,10 @@
+# [1.0.0-alpha.6](https://github.com/giulioscattolin/plutonium/compare/v1.0.0-alpha.5...v1.0.0-alpha.6) (2021-10-24)
+
+
+### Features
+
+* add minus(), multiplyBy() and divideBy() to RectangularCoordinates ([1654a66](https://github.com/giulioscattolin/plutonium/commit/1654a663f6ed5cbdc6941862226e1ec3ec84ff9a))
+
 # [1.0.0-alpha.5](https://github.com/giulioscattolin/plutonium/compare/v1.0.0-alpha.4...v1.0.0-alpha.5) (2021-10-24)
 
 
